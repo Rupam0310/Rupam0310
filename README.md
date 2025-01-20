@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [Email](mailto:patilrupam2003@gmail.com)
 
-- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/12YqyyPSSMJxp1ASXSKqc0AXxSM2xGec0/view?usp=sharing)
+- 📄 Know about my experiences in my [Resume]([https://drive.google.com/file/d/12YqyyPSSMJxp1ASXSKqc0AXxSM2xGec0/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1OYjZXA7geaArgazuTr_4YdaIjhd0HV_m))
 
 - ⚡ Fun fact: I can code
 
