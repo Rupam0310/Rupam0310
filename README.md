@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Rupam and I'm a Aspired AI and Data Science Engineer</h2>
+<h2 align="left">Hi 👋! My name is Rupam and I'm a Aasociate Data Scientist/"
+</h2>
 
 ###
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me: [Email](mailto:patilrupam2003@gmail.com)
 
-- 📄 Know about my experiences in my [Resume]([https://drive.google.com/file/d/12YqyyPSSMJxp1ASXSKqc0AXxSM2xGec0/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1OYjZXA7geaArgazuTr_4YdaIjhd0HV_m))
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1Tt8a4gVuUIDNFw-0hsoaK2n3zy5pv4u8/view?usp=sharing)
 
 - ⚡ Fun fact: I can code
 
