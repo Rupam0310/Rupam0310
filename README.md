@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rupam and I'm a Aasociate Data Scientist/"
+<h2 align="left">Hi 👋! My name is Rupam and I'm a Associate Data Scientist/"
 </h2>
 
 ###
